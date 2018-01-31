@@ -1,8 +1,8 @@
 # RGB-Image-Steganography-by-Matrix-Pattern-Approach
 
-In the Hiding Phase the main function is MP_Main_Function. For Runing the main function the below functions shoud be in the same folder:
+In the Hiding Phase the main function is MP_Main_Function. For Runing the main function the below functions shoud be in the same folder:<br />
 
-*MP_Generation
+*MP_Generation <br />
 *MP_Generation_for_orderblocks
 *Null_Matrix
 *Preprocessing_algorithm
